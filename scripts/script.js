@@ -30,9 +30,9 @@
 
  function carnePP(duracao){
      if(duracao >=6){
-        return 650;
+        return 750;
      }else {
-         return 400;
+         return 500;
      }
     }
 
